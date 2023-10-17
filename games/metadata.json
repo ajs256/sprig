@@ -2966,5 +2966,93 @@
     "img": "",
     "tags": ["classic", "multiplayer"],
     "added on": "2023-09-11"
+  },
+  {
+    "filename": "killer_training",
+    "title": "killer_training",
+    "author": "jakjakob",
+    "img": "",
+    "tags": ["timer-puzzle"],
+    "added on": "2023-09-16"
+  },
+  {
+    "filename": "wham",
+    "title": "wham",
+    "author": "Aaman Patnaik",
+    "img": "",
+    "tags": ["classic"],
+    "added on": "2023-09-18"
+  },
+  {
+    "filename": "fire_boom",
+    "title": "fire_boom",
+    "author": "Samarpan",
+    "img": "",
+    "tags": ["dodge"],
+    "added on": "2023-09-25"
+  },
+  {
+    "filename": "Space-war",
+    "title": "Space-war",
+    "author": "Yash",
+    "img": "",
+    "tags": ["catch"],
+    "added on": "2023-10-02"
+  },
+  {
+    "filename": "far-from-home",
+    "title": "far-from-home",
+    "author": "hayward",
+    "img": "",
+    "tags": [],
+    "added on": "2023-10-04"
+  },
+  {
+    "filename": "find_the_watermelon",
+    "title": "find_the_watermelon",
+    "author": "Mohamad",
+    "img": "",
+    "tags": [],
+    "added on": "2023-10-05"
+  },
+  {
+    "filename": "spider_home",
+    "title": "spider_home",
+    "author": "Usermaatre Setepenre",
+    "img": "",
+    "tags": ["sokoban-style"],
+    "added on": "2023-10-09"
+  },
+  {
+    "filename": "Destroy_The_Hearts",
+    "title": "Destroy_The_Hearts",
+    "author": "Deniz Melik Aktın",
+    "img": "",
+    "tags": ["sokoban-style"],
+    "added on": "2023-10-09"
+  },
+  {
+    "filename": "ocean-maze-escape",
+    "title": "ocean-maze-escape",
+    "author": "michael barrera",
+    "img": "",
+    "tags": ["sokoban-style"],
+    "added on": "2023-10-13"
+  },
+  {
+    "filename": "learn_morse",
+    "title": "learn_morse",
+    "author": "Ashen Chathuranga",
+    "img": "",
+    "tags": [],
+    "added on": "2023-10-15"
+  },
+  {
+    "filename": "The_Legend_Of_Sprig",
+    "title": "The_Legend_Of_Sprig",
+    "author": "Medieval Apple",
+    "img": "",
+    "tags": ["advanced"],
+    "added on": "2023-10-15"
   }
 ]
